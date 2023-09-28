@@ -1,0 +1,2 @@
+#The value below is the number of minutes the script will loop before ending. Feel free to adjust it as desired.
+30

@@ -1,0 +1,4 @@
+#Provide one FQDN per row below
+us-northeast-sasequic.gpon2oy22gnj.gw.gpcloudservice.com
+us-east-chi-sasequic.gpon2oy22gnj.gw.gpcloudservice.com
+us-northwest-g-sasequic.gpon2oy22gnj.gw.gpcloudservice.com
