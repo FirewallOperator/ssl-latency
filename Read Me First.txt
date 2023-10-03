@@ -1,0 +1,14 @@
+1. This powershell script needs to be permitted to execute. 
+2. Attempt to run the script first and if it works as is, you do not need to read this document any further.
+
+3. If you see the following error, perform the resolution steps below.
+   + FullyQualifiedErrorId : UnauthorizedAccess
+   
+4. In an administrative powershell window, issue the following command:
+   Set-ExecutionPolicy RemoteSigned
+   
+5. The prompt will ask how often to allow scripts to run, Please Pick (y) and NOT (A).
+6. Run the ssl-latency-tester.ps1 script
+
+7. Restrict Powershell scripts again with this command:
+   Set-ExecutionPolicy Restricted
